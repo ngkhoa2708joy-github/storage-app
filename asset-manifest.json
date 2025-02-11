@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ngkhoa2708joy-github/storage-app.git/static/css/main.0a677fa9.css",
+    "main.js": "/ngkhoa2708joy-github/storage-app.git/static/js/main.376119f0.js",
+    "index.html": "/ngkhoa2708joy-github/storage-app.git/index.html",
+    "main.0a677fa9.css.map": "/ngkhoa2708joy-github/storage-app.git/static/css/main.0a677fa9.css.map",
+    "main.376119f0.js.map": "/ngkhoa2708joy-github/storage-app.git/static/js/main.376119f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a677fa9.css",
+    "static/js/main.376119f0.js"
+  ]
+}

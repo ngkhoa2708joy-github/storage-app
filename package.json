@@ -9,11 +9,13 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "test": "jest --watchAll",
-    "lint": "expo lint"
+    "lint": "expo lint",
+    "build": "react-scripts build"
   },
   "jest": {
     "preset": "jest-expo"
   },
+  "homepage": "https://github.com/ngkhoa2708joy-github/storage-app.git",
   "dependencies": {
     "@expo/vector-icons": "^14.0.2",
     "@react-navigation/bottom-tabs": "^7.2.0",
@@ -38,13 +40,15 @@
     "react-native-safe-area-context": "4.12.0",
     "react-native-screens": "~4.4.0",
     "react-native-web": "~0.19.13",
-    "react-native-webview": "13.12.5"
+    "react-native-webview": "13.12.5",
+    "react-router-dom": "^7.1.5"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
     "@types/jest": "^29.5.12",
     "@types/react": "~18.3.12",
     "@types/react-test-renderer": "^18.3.0",
+    "gh-pages": "^6.3.0",
     "jest": "^29.2.1",
     "jest-expo": "~52.0.3",
     "react-test-renderer": "18.3.1",

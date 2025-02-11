@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ngkhoa2708joy-github/storage-app.git/static/css/main.5b4dd941.css",
-    "main.js": "/ngkhoa2708joy-github/storage-app.git/static/js/main.376119f0.js",
-    "index.html": "/ngkhoa2708joy-github/storage-app.git/index.html",
-    "main.5b4dd941.css.map": "/ngkhoa2708joy-github/storage-app.git/static/css/main.5b4dd941.css.map",
-    "main.376119f0.js.map": "/ngkhoa2708joy-github/storage-app.git/static/js/main.376119f0.js.map"
+    "main.css": "/storage-app/static/css/main.5b4dd941.css",
+    "main.js": "/storage-app/static/js/main.376119f0.js",
+    "index.html": "/storage-app/index.html",
+    "main.5b4dd941.css.map": "/storage-app/static/css/main.5b4dd941.css.map",
+    "main.376119f0.js.map": "/storage-app/static/js/main.376119f0.js.map"
   },
   "entrypoints": [
     "static/css/main.5b4dd941.css",
